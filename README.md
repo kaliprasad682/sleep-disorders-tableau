@@ -1,11 +1,20 @@
-Through my data visualization project on "Sleep Disorders Influenced by Lifestyle and Health," I explored the intricate relationships between various lifestyle factors, health conditions, and their impact on sleep patterns using Tableau's powerful visualization capabilities.
+# Sleep Disorders Influenced by Lifestyle & Health — Tableau Project
 
-Utilizing comprehensive datasets, I created insightful dashboards and visualizations that shed light on the prevalence of sleep disorders such as insomnia and obstructive sleep apnea (OSA) among different demographic groups, occupations, and geographical regions. The visualizations highlighted the direct influence of factors like work stress, irregular schedules, obesity, sedentary lifestyles, and unhealthy habits on the quality and duration of sleep.
+## Overview
+Explored relationships between lifestyle factors, health conditions, and sleep disorder patterns using Tableau's data visualization capabilities.
 
-One of the key visualizations demonstrated the strong correlation between demanding jobs, shift work, and the increased risk of insomnia, underscoring the importance of work-life balance and stress management. Additionally, I visually represented the link between excess weight, particularly around the neck area, and the development of OSA, a condition that can lead to fragmented sleep, daytime fatigue, and potential cardiovascular complications.
+## Objectives
+- Identify how factors like physical activity, stress, and BMI affect sleep
+- Visualize patterns across different demographics
+- Build interactive dashboards for health insights
 
-Furthermore, the project delved into the impact of poor dietary habits, lack of physical activity, and consumption of substances like caffeine and alcohol on sleep patterns. Through interactive visualizations, I effectively communicated the benefits of adopting a healthy lifestyle, including regular exercise and mindful eating habits, in promoting better sleep hygiene.
+## Tools Used
+- Tableau (dashboards and visualizations)
+- Dataset: Sleep health and lifestyle data
+- Data cleaning and analysis
 
-The visualizations also explored the bidirectional relationship between mental health conditions, such as depression and anxiety, and sleep disturbances, highlighting the need for a holistic approach to addressing these interconnected issues.
-Through my data visualization project on "Sleep Disorders Influenced by Lifestyle and Health," I explored the intricate relationships between various lifestyle factors, health conditions, and their impact on sleep patterns using Tableau's powerful visualization capabilities. Utilizing comprehensive datasets, I created insightful dashboards and visualizations that shed light on the prevalence of sleep disorders such as insomnia and obstructive sleep apnea (OSA) among different demographic groups, occupations, and geographical regions. The visualizations highlighted the direct influence of factors like work stress, irregular schedules, obesity, sedentary lifestyles, and unhealthy habits on the quality and duration of sleep. One of the key visualizations demonstrated the strong correlation between demanding jobs, shift work, and the increased risk of insomnia, underscoring the importance of work-life balance and stress management. Additionally, I visually represented the link between excess weight, particularly around the neck area, and the development of OSA, a condition that can lead to fragmented sleep, daytime fatigue, and potential cardiovascular complications. Furthermore, the project delved into the impact of poor dietary habits, lack of physical activity, and consumption of substances like caffeine and alcohol on sleep patterns. Through interactive visualizations, I effectively communicated the benefits of adopting a healthy lifestyle, including regular exercise and mindful eating habits, in promoting better sleep hygiene. The visualizations also explored the bidirectional relationship between mental health conditions, such as depression and anxiety, and sleep disturbances, highlighting the need for a holistic approach to addressing these interconnected issues.
-Skills: Data Analysis and Exploration · Data Analysis and Exploration · Data Visualization and Storytelling · Dashboard Design and User Experience · Data Blending and Joining · Calculated Fields and Advanced Analytics · Mapping and Spatial Analysis · Project Management and Collaboration
+## Key Findings
+Identified strong correlations between occupational stress, BMI, and sleep disorders such as insomnia and sleep apnea.
+
+## Author
+Kaliprasad | MS Health Informatics
